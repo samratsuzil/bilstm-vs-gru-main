@@ -1,0 +1,28 @@
+# Core dependencies for Lip Reading System
+# Install with: pip install -r requirements.txt
+
+# Deep Learning
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Numerical Computing
+numpy>=1.21.0
+
+# Visualization and Analysis
+matplotlib>=3.4.0
+
+# Optional but recommended for lip detection
+# dlib>=19.22.0
+# Note: dlib requires cmake. Install with:
+#   sudo apt-get install cmake  (Linux)
+#   brew install cmake          (macOS)
+# Then: pip install dlib
+
+# For progress bars during training (optional)
+# tqdm>=4.62.0
+
+# For advanced logging (optional)
+# tensorboard>=2.7.0

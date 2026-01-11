@@ -1,0 +1,11 @@
+shape_predictor_68_face_landmarks.dat
+venv/
+lrw/
+lrs/
+saved_models/
+temp/
+__pycache__/
+VERIFICATION_REPORT.md
+TEST.md
+verify_setup.py
+LipReading_BiLSTM_GRU_LRW.ipynb
