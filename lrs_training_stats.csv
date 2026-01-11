@@ -1,0 +1,3 @@
+Model,Avg Time/Epoch (s),Total Training Time (hours),Convergence Epoch
+Bi-LSTM + CTC,181.9270335856625,3.032117226427709,48
+GRU + CTC,125.88370992389265,2.0980618320648774,52

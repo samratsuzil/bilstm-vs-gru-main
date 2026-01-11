@@ -1,0 +1,10 @@
+Metric,Bi-LSTM + CTC,GRU + CTC,Difference (%)
+Total Parameters (M),38.115164,33.914716,11.02
+Model Size (MB),238.0,185.0,22.27
+WER (%),8.2,12.5,-52.44
+CER (%),5.1,7.3,-43.14
+Training Time/Epoch (s),181.9270335856625,125.88370992389265,30.81
+Inference Time - Medium (ms),485.0,342.0,29.48
+GPU Memory (MB),1456.0,1089.0,25.21
+FLOPs (G),28.5,21.2,25.61
+Convergence Epoch,48.0,52.0,-8.33

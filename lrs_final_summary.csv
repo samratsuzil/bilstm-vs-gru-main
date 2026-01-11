@@ -1,0 +1,8 @@
+Criterion,Model,Advantage
+Winner: Accuracy (WER),Bi-LSTM + CTC,4.3 pp lower WER
+Winner: Accuracy (CER),Bi-LSTM + CTC,2.2 pp lower CER
+Winner: Training Speed,GRU + CTC,~30% faster
+Winner: Inference Speed,GRU + CTC,~30% faster
+Winner: Memory Efficiency,GRU + CTC,~25% less memory
+Winner: Model Size,GRU + CTC,~22% smaller
+Winner: Long Sentences,Bi-LSTM + CTC,4.7 pp lower WER

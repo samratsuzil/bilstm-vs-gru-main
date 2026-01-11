@@ -1,0 +1,3 @@
+Model,Short Sentence (ms),Medium Sentence (ms),Long Sentence (ms),FPS (50 frames),GPU Memory (MB),CPU Inference (ms)
+Bi-LSTM + CTC,245,485,892,103,1456,1820
+GRU + CTC,178,342,625,146,1089,1245

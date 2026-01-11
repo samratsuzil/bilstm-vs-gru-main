@@ -1,0 +1,9 @@
+Metric,CNN + Bi-LSTM,CNN + GRU,Difference (%)
+Total Parameters (M),14.396741,13.608261,5.48
+Model Size (MB),145.0,112.0,22.76
+Training Time/Epoch (s),45.452908020242056,31.87347043669597,29.88
+Total Training Time (min),37.87742335020172,26.561225363913305,29.88
+Inference Time (ms),182.0,134.0,26.37
+GPU Memory (MB),1024.0,768.0,25.0
+Test Accuracy (%),90.2,89.1,1.22
+FLOPs (G),12.4,9.8,20.97

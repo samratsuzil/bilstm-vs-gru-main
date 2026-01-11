@@ -1,0 +1,6 @@
+Error Type,Bi-LSTM Frequency (%),GRU Frequency (%)
+Substitution,12,18
+Deletion,8,12
+Insertion,5,7
+Phonetically Similar,15,22
+Short Words (<4 chars),18,25
