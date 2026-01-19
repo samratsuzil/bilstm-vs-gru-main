@@ -7,7 +7,7 @@ from src.models.cnn_bilstm import CNNBiLSTM
 from src.models.cnn_gru import CNNGRU
 from src.utils.metrics import calculate_wer, calculate_cer, calculate_top_k_accuracy
 import time
-import json
+import jsond
 import os
 import argparse
 from collections import defaultdict
